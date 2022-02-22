@@ -17,7 +17,7 @@ vector<vector<ll>> multiply(vector<vector<ll>>&A,vector<vector<ll>>&B)
         }
     }
     return ans;
-}
+}//main part
 vector<vector<ll>> power(vector<vector<ll>>&A,ll m)
 {    if(m==0)
     return I;
